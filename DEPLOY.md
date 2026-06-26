@@ -24,9 +24,7 @@ git push -u origin main
 
 ## 生产 URL
 
-https://cjlabs.quark-mask-56b.workers.dev
-
-> 当前通过 `wrangler deploy --temporary` 部署到临时 Cloudflare 账号。若要长期持有，请在 60 分钟内访问 Dashboard Claim URL 认领账号，或使用正式 Cloudflare 账号重新部署。
+https://cjlabs.steveli1840.workers.dev
 
 ## Workers Builds（Git 自动部署）
 

@@ -3,7 +3,7 @@ export const siteConfig = {
   slogan: "Build What's Next.",
   description:
     "帮助更多普通人利用 AI 建立产品、收入、个人品牌与事业。持续分享 AI 产品实践、创业实践与 Build in Public。",
-  url: "https://cjlabs.quark-mask-56b.workers.dev",
+  url: "https://cjlabs.steveli1840.workers.dev",
   locale: "zh-CN",
   links: {
     github: "https://github.com/steveli1840/cjlabs",
