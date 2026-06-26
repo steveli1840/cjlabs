@@ -6,7 +6,7 @@ export const siteConfig = {
   url: "https://cjlabs.quark-mask-56b.workers.dev",
   locale: "zh-CN",
   links: {
-    github: "https://github.com/cjlabs",
+    github: "https://github.com/steveli1840/cjlabs",
     email: "hello@cjlabs.com",
   },
 } as const;
