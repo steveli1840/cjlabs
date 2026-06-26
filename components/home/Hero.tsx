@@ -7,7 +7,7 @@ export function Hero() {
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(0,102,255,0.12),transparent_55%)]" />
       <div className="relative mx-auto max-w-6xl px-6 py-24 sm:py-32">
         <p className="mb-4 inline-flex rounded-full border border-border px-3 py-1 text-xs text-muted-foreground">
-          AI 创业实践平台
+          AI 创业实践平台 · Git 自动部署测试
         </p>
         <h1 className="max-w-3xl text-4xl font-semibold tracking-tight sm:text-5xl lg:text-6xl">
           帮助普通人用 AI
