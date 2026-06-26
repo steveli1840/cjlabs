@@ -2,6 +2,26 @@
 
 本项目已配置 OpenNext + Wrangler，支持 Git 推送自动构建部署。
 
+## GitHub 仓库
+
+- 账号：`steveli1840`
+- 仓库：`https://github.com/steveli1840/cjlabs`
+
+首次推送（需先登录 GitHub CLI）：
+
+```bash
+gh auth login
+cd /Users/cjlabs/project/LLM/cjlabs
+gh repo create steveli1840/cjlabs --public --source=. --remote=origin --push
+```
+
+若仓库已存在，只需：
+
+```bash
+git remote add origin https://github.com/steveli1840/cjlabs.git
+git push -u origin main
+```
+
 ## 生产 URL
 
 https://cjlabs.quark-mask-56b.workers.dev
