@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Build output
+.next/
+.open-next/
+out/
+dist/
+
+# Cloudflare
+.wrangler/
+
+# Lock files (large, rarely needed in context)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+bun.lockb
+
+# Static assets (binary, can't be read)
+public/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Cache directories
+.cache/
+.parcel-cache/
+.turbo/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
